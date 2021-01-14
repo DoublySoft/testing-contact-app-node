@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/antoniosarosi/Contacts-App-Nodejs#readme",
   "devDependencies": {
-    "nodemon": "^1.19.3"
+    "nodemon": "^2.0.6"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
